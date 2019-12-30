@@ -8,5 +8,5 @@ When the program is run, a random Chinese Character will auto-populate on to you
 Additional details / features:
 
 - You may add additional Chinese Characters or remove Chinese characters from the list.
-- The Chinese character and its associated English translation were saved into a HashMap
+- The Chinese characters and their associated English translations were saved into a HashMap
 
