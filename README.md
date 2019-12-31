@@ -10,3 +10,13 @@ Additional details / features:
 - You may add additional Chinese Characters or remove Chinese characters from the list.
 - The Chinese characters and their associated English translations were saved into a HashMap
 
+Starting Screen:
+
+![Screenshot1](startingScreen.png)
+
+
+
+Game in progress:
+
+![Screenshot2](gameProgress.png)
+
