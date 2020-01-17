@@ -1,5 +1,5 @@
 # ChineseVocabulary
-Created a basic java program as my friend is currently learning Mandarin in Taiwan.
+Created a basic java program to help my friend learn Chinese. (He's currently learning Mandarin in Taiwan!)
 
 Program description:
 
